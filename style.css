@@ -1,0 +1,24 @@
+
+#carousel {
+    margin: 0 auto;
+    width: 400px;
+    height: 270px;
+    border: 1px solid #000;
+    overflow: hidden;
+}
+
+.carousel {
+     position: relative;
+    
+}
+.carousel__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 2000px;
+    
+}
+.carousel__element {
+    list-style: none;
+    float: left;
+}
